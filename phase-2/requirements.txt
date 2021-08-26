@@ -1,0 +1,6 @@
+pandas
+numpy
+sklearn
+matplotlib
+gensim==3.7
+
